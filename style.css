@@ -1,1 +1,62 @@
-
+body{
+	font-family: sans-serif;
+}
+.nav-pills-custom {
+  background-color: #dddddd;
+  border-bottom: 1px solid #dddddd;
+  border-radius: 0px;
+}
+.nav-pills-custom > li {
+  width: 15em;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 1.15em;
+  display: inline-block;
+  line-height: 30px;
+  border-right: 1px solid #cccccc;
+  margin-right: -4px;
+}
+.nav-pills-custom > li > a {
+  background-color: #dddddd;
+  color: #777777;
+  border-radius: 0px;
+  height: 50px;
+  vertical-align: middle;
+}
+.nav-pills-custom > li.active > a,
+.nav-pills-custom > li.active > a:focus {
+  color: #111111;
+  background-color: #eeeeee;
+}
+#bodyy{
+	margin-top: 50px;
+	background-color: #eeeeee;
+	padding:10px;
+	text-align: center;
+}
+#member{
+	margin-top: 5px;
+	background-color: #bbbbbb;
+	height: 400px;
+	width:47em;
+	display: inline-block;
+	border-radius: 2px;
+	margin: 3px;
+}
+#bio{
+	height:300px;
+	width: 20em;
+	background-color: #aaaaaa;
+	display: inline-block;
+	margin: 1px;
+	padding: 40px;
+	text-align: left;
+	border-radius: 2px;
+}
+#pic{
+	height:300px;
+	width: 20em;
+	display: inline-block;
+	margin: 1px;
+	padding-top: 40px;
+}
