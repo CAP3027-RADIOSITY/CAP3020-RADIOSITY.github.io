@@ -32,7 +32,6 @@ body{
 }
 #bodyy{
 	margin-top: 50px;
-	background-color: #fff;
 	background-image: url(Data/Luxo_Jr.png);
 	background-size: cover;
 	height: 710px;
