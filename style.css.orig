@@ -5,6 +5,7 @@ body{
   background-color: #dddddd;
   
   border-radius: 0px;
+
 }
 .nav-pills-custom > li {
   width: 15em;
@@ -22,6 +23,7 @@ body{
   border-radius: 0px;
   height: 50px;
   vertical-align: middle;
+
 }
 .nav-pills-custom > li.active > a,
 .nav-pills-custom > li.active > a:focus {
@@ -30,6 +32,7 @@ body{
 }
 #bodyy{
 	margin-top: 50px;
+	background-color: #fff;
 	background-image: url(Data/Luxo_Jr.png);
 	background-size: cover;
 	height: 710px;
@@ -62,7 +65,11 @@ body{
 	background-color: #aaaaaa;
 	display: inline-block;
 	margin: 1px;
+<<<<<<< HEAD
 	padding: 20px;
+=======
+	padding: 10px;
+>>>>>>> master
 	text-align: left;
 	border-radius: 2px;
 }
