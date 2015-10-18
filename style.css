@@ -30,11 +30,13 @@ body{
 }
 #bodyy{
 	margin-top: 50px;
+	padding:0px;
+	text-align: center;
+}
+.background {
 	background-image: url(Data/luxo_jr.png);
 	background-size: cover;
 	height: 710px;
-	padding:0px;
-	text-align: center;
 }
 .about {
 	font-family: 'Open Sans',sans-serif;
