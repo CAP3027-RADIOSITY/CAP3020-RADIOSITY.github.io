@@ -30,7 +30,6 @@ body{
 }
 #bodyy{
 	margin-top: 50px;
-	padding:0px;
 	text-align: center;
 }
 .background {
@@ -67,7 +66,7 @@ body{
 	background-color: #aaaaaa;
 	display: inline-block;
 	margin: 1px;
-	padding: 20px;
+	padding: 10px;
 	text-align: left;
 	border-radius: 2px;
 }
