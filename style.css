@@ -38,7 +38,8 @@ body{
 	height: 710px;
 }
 #references{
-	padding-top: 10px;
+	padding-top: 50px;
+	text-align: center;
 }
 .about {
 	font-family: 'Open Sans',sans-serif;
