@@ -3,7 +3,7 @@ body{
 }
 .nav-pills-custom {
   background-color: #dddddd;
-  border-bottom: 1px solid #dddddd;
+  
   border-radius: 0px;
 }
 .nav-pills-custom > li {
@@ -26,13 +26,27 @@ body{
 .nav-pills-custom > li.active > a,
 .nav-pills-custom > li.active > a:focus {
   color: #eeeeee;
-  background-color: #555555;
+  background-color: #555;
 }
 #bodyy{
 	margin-top: 50px;
-	background-color: #eeeeee;
-	padding:10px;
+	background-color: #fff;
+	background-image: url(Data/Luxo_Jr.png);
+	background-size: cover;
+	height: 710px;
+	padding:0px;
 	text-align: center;
+}
+.about {
+	font-family: 'Open Sans',sans-serif;
+	color: #cccccc;
+	padding-left: 750px; 
+	padding-top: 150px;
+	padding-right: 50px;
+}
+.innerText {
+	text-align: center;
+	color: #aaa;
 }
 #member{
 	margin-top: 5px;
@@ -49,7 +63,7 @@ body{
 	background-color: #aaaaaa;
 	display: inline-block;
 	margin: 1px;
-	padding: 10px;
+	padding: 20px;
 	text-align: left;
 	border-radius: 2px;
 }
