@@ -36,6 +36,9 @@ body{
 	padding:0px;
 	text-align: center;
 }
+#references{
+	padding-top: 10px;
+}
 .about {
 	font-family: 'Open Sans',sans-serif;
 	color: #cccccc;
