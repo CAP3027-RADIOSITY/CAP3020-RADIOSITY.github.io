@@ -1,5 +1,7 @@
 body{
 	font-family: sans-serif;
+	background-color: #555555;
+	color: #eeeeee;
 }
 .nav-pills-custom {
   background-color: #dddddd;
@@ -53,6 +55,7 @@ body{
 	color: #aaa;
 }
 #member{
+	color: #000000;
 	margin-top: 5px;
 	background-color: #bbbbbb;
 	height: 400px;
@@ -77,4 +80,12 @@ body{
 	display: inline-block;
 	margin: 1px;
 	padding-top: 40px;
+}
+a{
+	color: ORANGE;
+	text-decoration: none;
+}
+a:hover{
+	color: RED;
+	text-decoration: none;
 }
