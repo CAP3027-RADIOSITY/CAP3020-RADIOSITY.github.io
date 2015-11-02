@@ -110,3 +110,25 @@ a:hover{
 	top: 1px;
 	bottom: 1px;
 }
+
+
+.container {
+	padding-left:10%;
+    float:left;
+    position: relative;
+    width: 30%;
+}
+
+.image{
+    float:left;
+}
+
+.image img {
+    width: 80%;
+    height: 80%;
+}
+
+.nav {
+
+    display: inline;
+}
